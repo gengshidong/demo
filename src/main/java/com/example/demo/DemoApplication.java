@@ -8,7 +8,11 @@ public class DemoApplication {
 
 	public static void main(String[] args) {
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 		//v1.0s
+=======
+		//v1.0 
+>>>>>>> Stashed changes
 =======
 		//v1.0 
 >>>>>>> Stashed changes
