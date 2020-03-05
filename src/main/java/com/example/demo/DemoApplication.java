@@ -7,7 +7,11 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class DemoApplication {
 
 	public static void main(String[] args) {
+<<<<<<< Updated upstream
 		//v1.0s
+=======
+		//v1.0 
+>>>>>>> Stashed changes
 		SpringApplication.run(DemoApplication.class, args);
 	}
 
